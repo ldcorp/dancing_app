@@ -1,4 +1,5 @@
 Welcome to this project ! 
-We will create a damce application here. 
+We will create a damce application here.
+Hope you will work hard in this project. 
 
 Thank you!
